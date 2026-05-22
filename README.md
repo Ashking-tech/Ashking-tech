@@ -40,5 +40,3 @@ Beyond systems, I also explore **ML, data science, and web development**.
 
 ---
 
-> "I build to understand systems, then keep the useful parts."
-# Ashking-tech
